@@ -1,0 +1,52 @@
+{
+    "list": [
+        {
+            "title": "DECO 2017 Lecture",
+            "day": 0,
+            "time": 1,
+            "alarm": false
+        },
+        {
+            "title": "DECO 2017 Seminar",
+            "day": 0,
+            "time": 2,
+            "alarm": false
+        },
+        {
+            "title": "DECO 2017 Seminar",
+            "day": 0,
+            "time": 3,
+            "alarm": false
+        },
+        {
+            "title": "DECO 2017 A1 Due",
+            "day": 0,
+            "time": 4,
+            "alarm": true
+        },
+        {
+            "title": "Musc 1503 Lecture",
+            "day": 1,
+            "time": 1,
+            "alarm": false
+        },
+        {
+            "title": "Musc 1503 Tutorial",
+            "day": 1,
+            "time": 2,
+            "alarm": false
+        },
+        {
+            "title": "Musc 1503 Quiz Due",
+            "day": 2,
+            "time": 3,
+            "alarm": true
+        },
+        {
+            "title": "WRIT 1000 A3 Due",
+            "day": 5,
+            "time": 6,
+            "alarm": true
+        }
+    ]
+}
